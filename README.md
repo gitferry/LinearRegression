@@ -1,3 +1,6 @@
+<script type="text/javascript"
+ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+ </script>
 > 前言
 
 从这篇文章起，我将开一个坑来记录我学习Machine Learning的历程。
