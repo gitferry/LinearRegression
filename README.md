@@ -1,2 +1,2 @@
 # LinearRegression
-simple linear regression exsercise
+simple linear regression practice
